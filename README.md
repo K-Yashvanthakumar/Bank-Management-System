@@ -130,7 +130,6 @@ This project helps understand:
 
 ## Author
 
-Developed by **K Yashvanthakumar**
-as part of an **Advanced Java Project**.
+Developed by **K Yashvanthakumar**.
 
 ---
